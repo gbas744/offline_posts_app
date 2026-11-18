@@ -22,9 +22,12 @@ The app is split into small layers to keep the code organized:
 
     
 ## 🚀 How to Run
-bash
+-bash
+
 flutter pub get
+
 dart run build_runner build --delete-conflicting-outputs
+
 flutter run
 
 ## 📸 Proof of Concept (Screenshots)
